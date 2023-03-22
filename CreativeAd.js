@@ -3,10 +3,10 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"CreativeAd_atlas_1", frames: [[0,1606,1063,213],[0,1821,1063,213],[0,1174,1067,214],[0,1390,1067,214],[1065,1706,520,53],[1065,1606,356,98],[1065,1761,520,53],[1065,1816,520,53],[1065,1871,520,53],[0,0,984,1172]]},
-		{name:"CreativeAd_atlas_2", frames: [[0,0,1660,1022]]},
-		{name:"CreativeAd_atlas_3", frames: [[0,0,2000,2000]]},
-		{name:"CreativeAd_atlas_4", frames: [[0,0,2000,2000]]}
+		{name:"CreativeAd_atlas_1", frames: [[0,0,2000,2000]]},
+		{name:"CreativeAd_atlas_2", frames: [[0,0,2000,2000]]},
+		{name:"CreativeAd_atlas_3", frames: [[0,0,1660,1022]]},
+		{name:"CreativeAd_atlas_4", frames: [[0,1606,1063,213],[0,1821,1063,213],[0,1174,1067,214],[0,1390,1067,214],[1065,1706,520,53],[1065,1606,356,98],[1065,1761,520,53],[1065,1816,520,53],[1065,1871,520,53],[0,0,984,1172]]}
 ];
 
 
@@ -31,63 +31,63 @@ lib.ssMetadata = [
 
 
 (lib.CachedBmp_9 = function() {
-	this.initialize(ss["CreativeAd_atlas_1"]);
+	this.initialize(ss["CreativeAd_atlas_4"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_8 = function() {
-	this.initialize(ss["CreativeAd_atlas_1"]);
+	this.initialize(ss["CreativeAd_atlas_4"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_7 = function() {
-	this.initialize(ss["CreativeAd_atlas_1"]);
+	this.initialize(ss["CreativeAd_atlas_4"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_6 = function() {
-	this.initialize(ss["CreativeAd_atlas_1"]);
+	this.initialize(ss["CreativeAd_atlas_4"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_5 = function() {
-	this.initialize(ss["CreativeAd_atlas_1"]);
+	this.initialize(ss["CreativeAd_atlas_4"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_4 = function() {
-	this.initialize(ss["CreativeAd_atlas_1"]);
+	this.initialize(ss["CreativeAd_atlas_4"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_3 = function() {
-	this.initialize(ss["CreativeAd_atlas_1"]);
+	this.initialize(ss["CreativeAd_atlas_4"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_2 = function() {
-	this.initialize(ss["CreativeAd_atlas_1"]);
+	this.initialize(ss["CreativeAd_atlas_4"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_1 = function() {
-	this.initialize(ss["CreativeAd_atlas_1"]);
+	this.initialize(ss["CreativeAd_atlas_4"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
@@ -100,28 +100,28 @@ p.nominalBounds = new cjs.Rectangle(0,0,2674,1611);
 
 
 (lib.Bitmap2 = function() {
-	this.initialize(ss["CreativeAd_atlas_1"]);
+	this.initialize(ss["CreativeAd_atlas_4"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.OnefootballLogo = function() {
-	this.initialize(ss["CreativeAd_atlas_4"]);
+	this.initialize(ss["CreativeAd_atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.PhonesOnefootball = function() {
-	this.initialize(ss["CreativeAd_atlas_2"]);
+	this.initialize(ss["CreativeAd_atlas_3"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.RonaldoPhone = function() {
-	this.initialize(ss["CreativeAd_atlas_3"]);
+	this.initialize(ss["CreativeAd_atlas_2"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 // helper functions:
